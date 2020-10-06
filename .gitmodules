@@ -1,0 +1,3 @@
+[submodule "multi_control_neural_network"]
+	path = multi_control_neural_network
+	url = https://github.com/odedyec/multi_control_neural_network
